@@ -2,6 +2,8 @@
 
 Personal portfolio/site for Noa Ellsworth: a product engineer and site builder showcasing work across software, brand/showreel experiences, and learning resources.
 
+<img width="1919" height="887" alt="Screenshot 2026-11-18 191510" src="https://github.com/user-attachments/assets/f62a1111-222d-462a-8da9-af92ba8db560" />
+
 ## Tech stack
 
 - [Vite](https://vite.dev/)
